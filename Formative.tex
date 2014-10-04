@@ -1,0 +1,202 @@
+\documentclass[a4paper, 11pt, twoside]{article}
+% Set up page layout
+\usepackage[a4paper]{geometry}
+\usepackage{fancyhdr}
+% Set up hyphenation, etc.
+\usepackage[british]{babel}
+% Set up images
+\usepackage{pstricks,pst-node,pst-text,pst-3d,pst-eucl}
+\usepackage{psfrag}
+\usepackage{import}
+\usepackage{graphicx}
+\usepackage{subfigure}
+\usepackage[figuresright]{rotating}
+%\usepackage{flafter}
+% Set up fonts
+\usepackage{charter}
+\usepackage{amssymb,amstext,amsfonts} %% ... with default font
+\usepackage{amsmath}
+\usepackage{mathrsfs}
+%\usepackage{txfonts}
+% Colouring
+\usepackage{xcolor}
+\definecolor{vermilion}{rgb}{0.80,0.40,}
+\definecolor{blueishgreen}{rgb}{0,0.60,0.50}
+\definecolor{skyblue}{rgb}{0.35,0.70,0.90}
+
+% Set up lists and tables
+\usepackage{listings}
+\usepackage{enumitem}
+\setlist{itemsep=0pt}
+\usepackage{booktabs, longtable, dcolumn}
+\usepackage{array}
+\usepackage{ragged2e}
+\newcolumntype{P}[1]{>{\RaggedRight\hspace{0pt}}p{#1}}
+\usepackage[labelfont=bf,labelsep=space,hypcap]{caption}
+\renewcommand{\captionfont}{\small}
+\usepackage[caption2]{ccaption}
+%\usepackage{tikz}
+%\usetikzlibrary{shapes,arrows}
+% More fonts
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\renewcommand{\sfdefault}{lmss}
+\renewcommand{\ttdefault}{lmtt}
+\usepackage{microtype}
+\usepackage[latin9]{inputenc}
+\usepackage[11pt]{moresize}
+%\usepackage{fixmath}
+\usepackage{ upgreek }
+% Special symbols
+\usepackage{braket}
+\usepackage{slashed}
+% Set up page indexing, bib fomatting, etc.
+\usepackage{afterpage}
+\usepackage{appendix}
+%\usepackage{paralist}
+%\usepackage[linktocpage,bookmarksnumbered,breaklinks,pdfhighlight=/P,citebordercolor=blueishgreen,urlbordercolor=skyblue,linkbordercolor=vermilion]{hyperref}
+\usepackage[authoryear]{natbib}
+\usepackage[linktocpage,bookmarksnumbered,pdfauthor={Christopher P.L. Berry},pdftitle={Exploring Gravity},pdfkeywords={Ph.D. Dissertation}]{hyperref}            
+\usepackage{bookmark}
+\usepackage{etoolbox}
+
+
+% Patch case where name and year are separated by aysep
+\patchcmd{\NAT@citex}
+  {\@citea\NAT@hyper@{%
+     \NAT@nmfmt{\NAT@nm}%
+     \hyper@natlinkbreak{\NAT@aysep\NAT@spacechar}{\@citeb\@extra@b@citeb}%
+     \NAT@date}}
+  {\@citea\NAT@nmfmt{\NAT@nm}%
+   \NAT@aysep\NAT@spacechar\NAT@hyper@{\NAT@date}}{}{}
+
+% Patch case where name and year are separated by opening bracket
+\patchcmd{\NAT@citex}
+  {\@citea\NAT@hyper@{%
+     \NAT@nmfmt{\NAT@nm}%
+     \hyper@natlinkbreak{\NAT@spacechar\NAT@@open\if*#1*\else#1\NAT@spacechar\fi}%
+       {\@citeb\@extra@b@citeb}%
+     \NAT@date}}
+  {\@citea\NAT@nmfmt{\NAT@nm}%
+   \NAT@spacechar\NAT@@open\if*#1*\else#1\NAT@spacechar\fi\NAT@hyper@{\NAT@date}}
+  {}{}
+
+\makeatother
+
+\renewcommand{\bibfont}{\footnotesize}
+\addto{\captionsbritish}{\renewcommand{\bibname}{{R\lowercase{eferences}}}}
+%\renewcommand{\refname}{{R\lowercase{eferences}}}
+\setlength{\bibhang}{0pt} 
+%\setlength{\bibsep}{0.5pt} % 1 linestretch
+\setlength{\bibsep}{0pt} % 1.3 linestretch
+\addto{\captionsbritish}{\renewcommand{\contentsname}{{C\lowercase{ontents}}}}
+
+\usepackage{fourier-orns}
+  
+% Set page layout  
+\headheight 13.6pt
+% For 10pt text
+%\headsep 0.6\baselineskip
+%\footskip 2\baselineskip
+%\textheight = 55\baselineskip
+% For 11pt text
+\topmargin -0.4cm
+\headsep 0.6\baselineskip
+\footskip 2\baselineskip
+\textheight = 50.1\baselineskip
+
+\def\today{\number\day\space\ifcase\month\or January\or February\or March\or April\or May\or June\or July\or August\or September\or October\or November\or December\fi\space\number\year}
+
+\begin{document}
+
+\bibpunct{(}{)}{;}{a}{}{,\,}
+
+\makeatletter
+\pagestyle{fancy}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\fancyhf{}
+\fancyhead[LE]{Formative assessment}
+\fancyhead[RE]{Christopher Berry}
+\fancyhead[LO]{PCAP}
+\fancyhead[RO]{\rightmark}
+\fancyfoot{}
+\renewcommand{\footrulewidth}{0.1ex}
+\fancyfoot[LO]{\today}
+%\fancyfoot[LO]{21st August 2013}
+\fancyfoot[RE]{University of Birmingham}
+\fancyfoot[RO, LE]{\thepage}
+\fancypagestyle{plain}{
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot{}
+\renewcommand{\footrulewidth}{0.1ex}
+\fancyfoot[LO]{\today}
+%\fancyfoot[LO]{21st August 2013}
+\fancyfoot[RE]{University of Birmingham}
+\fancyfoot[RO, LE]{\thepage}}
+\makeatother
+
+\title{Formative assessment}
+\author{Christopher Berry\\\href{mailto:cplb@star.sr.bham.ac.uk}{cplb@star.sr.bham.ac.uk}}
+\date{\today} 
+
+\maketitle
+
+\vspace{-2\baselineskip}
+
+\section{Thesis Plan}
+
+\subsection{Gravitation}
+
+The opening chapter is an introduction to gravity: our understanding as elucidated by Einstein; the questions raised by the current cosmological paradigm, and the role it plays in astrophysics. This will include discussion of astrophysical black holes and their importance. I will describe how we may test gravity with astrophyscial observations, and how we can observe astrophysical objects with gravitational tests. This establishes the strands of the subsequent chapters. Using gravitational waves we can learn about extreme objects such as black holes, which I will study in context of extreme-mass-ratio bursts (EMRBs). To correctly interpret our results we must assume that general relativity (GR) is the true theory of gravity: we must also consider alternative theories, which is why I investigate $f(R)$-gravity. Before we can be certain that we have observed a deviation from GR, we must understand the GR waveforms; there are a number of phenomena that are still to be studied in detail, one of which is the effect of resonances during inspirals.
+
+This chapter is yet to be started, but requires no original research. It may be possible to recycle content from the introduction sections of my papers. A discussion of the prospects of a space-borne gravitational wave detector will be included; this will depend upon future funding decisions.
+
+\subsection{Extreme-mass-ratio bursts waveforms}
+
+The first chapter will explain how I calculate gravitational waveforms for EMRBs. It will discuss the various approximations used and their validity. The work for this is completed, and is largely written up. The main body will be taken from the first half of a paper currently being composed:
+\begin{quote}
+Berry, C.P.L.\ \& Gair, J.R.; Observing the Galaxy's massive black hole with gravitational wave bursts; (in preparation).
+\end{quote}
+The relevant sections are near finished. I will also include the content of:
+\begin{quote}
+Berry, C.P.L.\ \& Gair, J.R.; Gravitational wave energy spectrum of a parabolic encounter; {\it Physical Review D}; {\bf 82}(10):107501(4); November 2010; {\tt arXiv:1010.3865 [gr-qc]}.
+\end{quote}
+Additional background material can be included to make the chapter more comprehensive and self-contained than the research papers. There is no outstanding work, with the possible exception of generating more figures.
+
+\subsection{Parameters estimation from extreme-mass-ratio bursts}
+
+Continuing from the previous chapter, I will use EMRB waveforms for parameter estimation, to determine what can be discovered about MBHs. This requires the introduction of signal analysis techniques. I will present results of Markov chain Monte Carlo simulations to characterise the accuracy of EMRB measurements. These are being run currently and should be complete in the immediate future. There have been set-backs in finishing this work as my initial approach of using Fisher matrices was innappropriate: this has cost me time, but will provide additional content. This work is being written up as part of:
+\begin{quote}
+Berry, C.P.L.\ \& Gair, J.R.; Observing the Galaxy's massive black hole with gravitational wave bursts; (in preparation).
+\end{quote}
+Minimal extra work should be required to adapt the relevant sections into a full chapter.
+
+\subsection{Extreme-mass-ratio burst event rates}
+
+Having answered what EMRBs can teach us, it is necessary to consider thier frequency. This chapter includes a rough estimate for the event rate. This will concludes the EMRB trilogy: the first focused on EMRBs within GR; the second looked at data processing and analysis (albeit with astrophysically interesting results), and this third will study the astrophysical systems surrounding the MBHs. In order to formulate the event rate, I will consider another aspect of gravitational interactions: dynamical friction. This is done within Newtonian gravity: we thus span the full spectrum from classical Keplerian orbits to highly relativistic effects. The theory for this chapter is largely finished, and written up as the body of:
+\begin{quote}
+Berry, C.P.L.\ \& Gair, J.R.; Event rates for extreme-mass-ratio bursts from the Galactic Centre; (in preparation).
+\end{quote}
+It remains to finish the code to generate the results, and put together conclusions based upon these. This work will be completed shortly after the work for the previous chapters. Rewriting the paper into a chapter will require some restructuring, but should be straightforward.
+
+\subsection{Testing $f(R)$-gravity}
+
+Moving on to the second strand, I will discuss alternative theories of gravity, and study in detail $f(R)$-gravity. I will look at linearised theory, and constraints from solar system, laboratory and gravitational wave tests. This work is entirely complete and published as:
+\begin{quote}
+Berry, C.P.L.\ \& Gair, J.R.; Linearized $f(R)$ gravity: Gravitational radiation and Solar System tests; {\it Physical Review D}; {\bf 83}(10):104022(19); May 2011; {\tt arXiv:1104.0819 [gr-qc]}.
+\end{quote}
+This fits neatly into one chapter. The paper should not require rewriting, other than to update references. An additional introductory section on other alternate theories could be included; this would not require additional calculations.
+
+\subsection{Resonances in extreme-mass-ratio inspirals}
+
+The final strand of my thesis is still to be completed. It is independent of the others, but bridges the gap between using GR to study astrophysical objects, and testing alternative theories of gravity. We can only do these if we have a good understanding of orbital evolution in GR. I hope to complete some theoretical work on understanding the influence of orbital resonances, as well as using code to study gravitational waveforms from orbits which pass through resonance. The code for this is already written, although it is still to be properly testing. I will collaborate with Priscilla Ca\~{n}izares for this project.
+
+\subsection{The horizon}
+
+I will conclude with a short summary. This will give an overview of the results and tie the strands of the thesis back together. It will give the opportunity for reflection and highlight what is still to be explored.
+
+\bibliographystyle{physicsAuthorYearURL2}
+\bibliography{formative.bib}
+
+\end{document}
