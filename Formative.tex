@@ -59,7 +59,8 @@
 \usepackage[linktocpage,bookmarksnumbered,pdfauthor={Christopher P.L. Berry},pdftitle={Exploring Gravity},pdfkeywords={Ph.D. Dissertation}]{hyperref}            
 \usepackage{bookmark}
 \usepackage{etoolbox}
-
+% Only link on year
+\makeatletter
 
 % Patch case where name and year are separated by aysep
 \patchcmd{\NAT@citex}
@@ -91,7 +92,7 @@
 \setlength{\bibsep}{0pt} % 1.3 linestretch
 \addto{\captionsbritish}{\renewcommand{\contentsname}{{C\lowercase{ontents}}}}
 
-\usepackage{fourier-orns}
+%\usepackage{fourier-orns}
   
 % Set page layout  
 \headheight 13.6pt
@@ -106,6 +107,27 @@
 \textheight = 50.1\baselineskip
 
 \def\today{\number\day\space\ifcase\month\or January\or February\or March\or April\or May\or June\or July\or August\or September\or October\or November\or December\fi\space\number\year}
+
+% Custom commands
+\newcommand{\eqnref}[1]{equation (\ref{eq:#1})}
+\newcommand{\Eqnref}[1]{Equation (\ref{eq:#1})}
+\newcommand{\secref}[1]{section \ref{sec:#1}}
+\newcommand{\Secref}[1]{Section \ref{sec:#1}}
+\newcommand{\chapref}[1]{chapter \ref{ch:#1}}
+\newcommand{\Chapref}[1]{Chapter \ref{ch:#1}}
+\newcommand{\partref}[1]{part \ref{pt:#1}}
+\newcommand{\Partref}[1]{Part \ref{pt:#1}}
+\newcommand{\apref}[1]{appendix \ref{ap:#1}}
+\newcommand{\Apref}[1]{Appendix \ref{ap:#1}}
+\newcommand{\tabref}[1]{table \ref{tab:#1}}
+\newcommand{\Tabref}[1]{Table \ref{tab:#1}}
+\newcommand{\figref}[1]{figure \ref{fig:#1}}
+\newcommand{\Figref}[1]{Figure \ref{fig:#1}}
+
+\newcommand{\units}[1]{\ensuremath{~\mathrm{#1}}}
+
+\newcommand{\sub}[1]{\ensuremath{_\mathrm{#1}}}
+\newcommand{\super}[1]{\ensuremath{^\mathrm{#1}}}
 
 \begin{document}
 
@@ -131,12 +153,11 @@
 \fancyfoot{}
 \renewcommand{\footrulewidth}{0.1ex}
 \fancyfoot[LO]{\today}
-%\fancyfoot[LO]{21st August 2013}
 \fancyfoot[RE]{University of Birmingham}
 \fancyfoot[RO, LE]{\thepage}}
 \makeatother
 
-\title{Formative assessment}
+\title{Formative assessment: Teaching \& learning experiences}
 \author{Christopher Berry\\\href{mailto:cplb@star.sr.bham.ac.uk}{cplb@star.sr.bham.ac.uk}}
 \date{\today} 
 
@@ -144,59 +165,41 @@
 
 \vspace{-2\baselineskip}
 
-\section{Thesis Plan}
+\section{Introduction}
 
-\subsection{Gravitation}
+We learn from our own experiences, repeating things that have gone well and avoiding those that led to failure \citep{Skinner1954}. My own teaching style reflects how I learnt as I attempt to emulate the experiences that were most educational for me. I read Natural Sciences at the University of Cambridge as an undergraduate, specialising in Experimental and Theoretical Physics, before continuing to complete a Ph.D.\ in Astronomy. During my postgraduate study I began supervising: tutoring small-groups (2--3 students), with teaching focussed on weekly (formative) problem sets. Subsequently, I have moved to the University of Birmingham, where I now tutor: small-group (3--4 students) teaching similar to supervising, except problems also serve a summative role. At both Cambridge and Birmingham I have taught second year physics. I shall discuss how my own learning experience have informed my teaching approach.
 
-The opening chapter is an introduction to gravity: our understanding as elucidated by Einstein; the questions raised by the current cosmological paradigm, and the role it plays in astrophysics. This will include discussion of astrophysical black holes and their importance. I will describe how we may test gravity with astrophyscial observations, and how we can observe astrophysical objects with gravitational tests. This establishes the strands of the subsequent chapters. Using gravitational waves we can learn about extreme objects such as black holes, which I will study in context of extreme-mass-ratio bursts (EMRBs). To correctly interpret our results we must assume that general relativity (GR) is the true theory of gravity: we must also consider alternative theories, which is why I investigate $f(R)$-gravity. Before we can be certain that we have observed a deviation from GR, we must understand the GR waveforms; there are a number of phenomena that are still to be studied in detail, one of which is the effect of resonances during inspirals.
+I begin by introducing core components of studying physics (\secref{physics}), before expanding upon small-group teaching (\secref{small}) which has been a primary component of both my learning and teaching experience. Building upon the ideas of learning in a small-group, I discuss my experiences of learning through peer collaboration (\secref{peer}). I conclude with a critique of how I have assimilated aspects of my own student experience into my approach to teaching.
 
-This chapter is yet to be started, but requires no original research. It may be possible to recycle content from the introduction sections of my papers. A discussion of the prospects of a space-borne gravitational wave detector will be included; this will depend upon future funding decisions.
+\section{Studying physics}\label{sec:physics}
 
-\subsection{Extreme-mass-ratio bursts waveforms}
+Physics is a broad subject covering the fundamental behaviour of the Universe and its components. It is familiar to most as it is introduced at school level: it's teaching follows a spiral curriculum, periodically returning to previously-taught topics to cover them in ever-expanding detail \citep{Bruner1960}. The main jump from school to university physics is in the use of mathematics. Applying mathematical formalism to describe and solve physical problems is the greatest threshold concept \citep{Meyer2003} faced by those wishing to become conversant with physics \citep{Wigner1960}.
 
-The first chapter will explain how I calculate gravitational waveforms for EMRBs. It will discuss the various approximations used and their validity. The work for this is completed, and is largely written up. The main body will be taken from the first half of a paper currently being composed:
-\begin{quote}
-Berry, C.P.L.\ \& Gair, J.R.; Observing the Galaxy's massive black hole with gravitational wave bursts; (in preparation).
-\end{quote}
-The relevant sections are near finished. I will also include the content of:
-\begin{quote}
-Berry, C.P.L.\ \& Gair, J.R.; Gravitational wave energy spectrum of a parabolic encounter; {\it Physical Review D}; {\bf 82}(10):107501(4); November 2010; {\tt arXiv:1010.3865 [gr-qc]}.
-\end{quote}
-Additional background material can be included to make the chapter more comprehensive and self-contained than the research papers. There is no outstanding work, with the possible exception of generating more figures.
+My experience of university-level physics teaching has been traditional \citep[cf.][]{Iannone2015}. Concepts and theories are introduced in lectures. These ideas are reinforced through problem sets that also encourage mathematical fluency and independent learning \citep{Pike2015}. At least some of these problems are assessed to provide students feedforward information \citep{Bloxham2015}. small-group teaching or examples classes give students the opportunity to discuss the problems and their solutions as well as other elements of the syllabus.\footnote{This may fulfil the role of inverted classrooms, where students prepare outside of class and then work through problems under the guidance of a tutor in class, employed elsewhere \citep{Lage2000}.} Practical work is done in labs; experiments may complement topics covered in lectures, for example measuring refraction during a course on electromagnetism, be of equal importance as lectures for teaching ideas, for example in a course on electronics, or motivate material covered in lectures, for example error analysis. Assessment is dominated by summative closed-book examinations at the end of the courses.\footnote{The situation may be similar to in mathematics, as both subjects require similar mathematical problem solving and the correctness of solutions is not subjective, where traditional closed-book examinations are favoured \citep{Iannone2014}.} I have found completing problem sets to best encourage deep learning: good understanding is required to fully solve a question and, since problems are done outside of class, there is sufficient time to review assimilate new ideas.\footnote{Even if a student takes an achieving strategy \citep[chapter 2]{Biggs1987} and only invests time in understanding the topics directly probed by the given questions, a dense covering of the syllabus by problems sets should ensure a comprehensive understanding of the majority of the material.}
 
-\subsection{Parameters estimation from extreme-mass-ratio bursts}
+Problem sets are of paramount importance. Extracting the most from them relies on the student being motivated to put in the necessary effort: those who work harder shall learn more \citep{Gibbs2015}. This is extremely difficult to externally inspire. Consequently, we shall instead focus on how problem sets are supported, which is primarily through small-group teaching.
 
-Continuing from the previous chapter, I will use EMRB waveforms for parameter estimation, to determine what can be discovered about MBHs. This requires the introduction of signal analysis techniques. I will present results of Markov chain Monte Carlo simulations to characterise the accuracy of EMRB measurements. These are being run currently and should be complete in the immediate future. There have been set-backs in finishing this work as my initial approach of using Fisher matrices was innappropriate: this has cost me time, but will provide additional content. This work is being written up as part of:
-\begin{quote}
-Berry, C.P.L.\ \& Gair, J.R.; Observing the Galaxy's massive black hole with gravitational wave bursts; (in preparation).
-\end{quote}
-Minimal extra work should be required to adapt the relevant sections into a full chapter.
+\section{Small-group teaching}\label{sec:small}
 
-\subsection{Extreme-mass-ratio burst event rates}
+Supervisions at Cambridge involve either an academic or a PhD student meeting regularly with a group of students. The small-group size allows for sessions to be tailored to the individual needs of the students and for each student to be involved in discussions.\footnote{Groups of only one student were usually avoided as this could be intimidating for the student. Furthermore, having an additional student provides some respite to think while the other is being questioned. The lone student would also miss out on the opportunity to hear the opinions of a peer.} Supervisions were generally structured around the problems, with the students given opportunity to ask about other areas of the course they were unsure of (or interested in); any spare time was used to discuss additional topics (perhaps the research of the supervisor). The supervision system is designed to encourage students to stay on top of their work and to provide them for the necessary support when this is difficult \citep[case study 12.1]{Gibbs2015}; its effectiveness at achieving this is manifest from the international reputation of Cambridge.
 
-Having answered what EMRBs can teach us, it is necessary to consider thier frequency. This chapter includes a rough estimate for the event rate. This will concludes the EMRB trilogy: the first focused on EMRBs within GR; the second looked at data processing and analysis (albeit with astrophysically interesting results), and this third will study the astrophysical systems surrounding the MBHs. In order to formulate the event rate, I will consider another aspect of gravitational interactions: dynamical friction. This is done within Newtonian gravity: we thus span the full spectrum from classical Keplerian orbits to highly relativistic effects. The theory for this chapter is largely finished, and written up as the body of:
-\begin{quote}
-Berry, C.P.L.\ \& Gair, J.R.; Event rates for extreme-mass-ratio bursts from the Galactic Centre; (in preparation).
-\end{quote}
-It remains to finish the code to generate the results, and put together conclusions based upon these. This work will be completed shortly after the work for the previous chapters. Rewriting the paper into a chapter will require some restructuring, but should be straightforward.
+Tutorials in Birmingham are of a similar nature to supervisions. They differ in group size, which does not afford as intensive attention to individual students, and also in the amount of contact time. In second year, Cambridge's Natural Sciences undergraduates would have one hour per week per course (three hours per week in total), while Birmingham's Physics undergraduates have a single hour per week for all their courses.\footnote{The difference in teaching time is slightly ameliorated by the marginally longer teaching year in Birmingham: 22 weeks compared to 19.} A further difference is that tutorials in Birmingham include the (formal) teaching of key communication skills, such as preparing a curriculum vit\ae, giving a presentation and writing a scientific essay. These enhance the employability of the students (especially since communication skills are not traditionally emphasised within a physics course), but also absorb more time that could have otherwise been spent on the main curriculum. While the tutorial system might not match supervisions in Cambridge, they still provide a great opportunity for students to engage with and ask questions of a member of research staff, an opportunity that is not present as part of all physics courses.
 
-\subsection{Testing $f(R)$-gravity}
+For any small-group teaching it is necessary for students to prepare. I did this by collaborating with my peers.
 
-Moving on to the second strand, I will discuss alternative theories of gravity, and study in detail $f(R)$-gravity. I will look at linearised theory, and constraints from solar system, laboratory and gravitational wave tests. This work is entirely complete and published as:
-\begin{quote}
-Berry, C.P.L.\ \& Gair, J.R.; Linearized $f(R)$ gravity: Gravitational radiation and Solar System tests; {\it Physical Review D}; {\bf 83}(10):104022(19); May 2011; {\tt arXiv:1104.0819 [gr-qc]}.
-\end{quote}
-This fits neatly into one chapter. The paper should not require rewriting, other than to update references. An additional introductory section on other alternate theories could be included; this would not require additional calculations.
+\section{Peer learning}\label{sec:peer}
 
-\subsection{Resonances in extreme-mass-ratio inspirals}
+As an undergraduate I would often work on problems with a group of fellow physicists. Doing so provided support for difficult questions, an opportunity to discuss concepts, and multiple points-of-view. It also made the experience much more enjoyable. This can be considered as an informal version of peer instruction, which has been demonstrated to be effective in encouraging learning in physics \citep{Crouch2001,Pilzer2001,Miller2006}.
 
-The final strand of my thesis is still to be completed. It is independent of the others, but bridges the gap between using GR to study astrophysical objects, and testing alternative theories of gravity. We can only do these if we have a good understanding of orbital evolution in GR. I hope to complete some theoretical work on understanding the influence of orbital resonances, as well as using code to study gravitational waveforms from orbits which pass through resonance. The code for this is already written, although it is still to be properly testing. I will collaborate with Priscilla Ca\~{n}izares for this project.
+Not only did working as part of a group improve our 
 
-\subsection{The horizon}
+\section{Translation from learning to teaching}
 
-I will conclude with a short summary. This will give an overview of the results and tie the strands of the thesis back together. It will give the opportunity for reflection and highlight what is still to be explored.
+high expectations
+humour
+conversant
 
 \bibliographystyle{physicsAuthorYearURL2}
-\bibliography{formative.bib}
+\bibliography{teaching.bib}
 
 \end{document}
