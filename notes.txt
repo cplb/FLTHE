@@ -1,28 +1,107 @@
-Kolb
+***Kolb***
 
 Chapter 2: The process of experimental learning (20--38)
 
-Immediate personal experience is the focal point for learning, giving life, texture, and subjectibe personal meaning tp abstract concepts and at the same time providing a concrete, publicly shared reference point for testing the implications and validity of ideas created during the learnig process.
+Immediate personal experience is the focal point for learning, giving life, texture, and subjective personal meaning to abstract concepts and at the same time providing a concrete, publicly shared reference point for testing the implications and validity of ideas created during the learning process.
 
 Learning is best conceived as a process, not in terms of outcomes.
 
-Learning is the process whereby knowledgeis created through the transformation of expereince.
+Learning is the process whereby knowledge is created through the transformation of experience.
 
 
 Chapter 5: The structure of knowledge (99--131)
 
->>Fig 5.3, 5.4 Physics/Astronomy/Mathematics: Hard (abstract/mathemaical), quite reflective (basic/no consulting)
+>>Fig 5.3, 5.4 Physics/Astronomy/Mathematics: Hard (abstract/mathematical), quite reflective (basic/no consulting)
 
 
 Chapter 7: Learning and development in higher education (161--208)
 
-Disciplines, as we have seen, show sociocultural variation---differences in faculty and student demographics, personality, and aptitudes, as well as diffrences in values and group norms. For students, education in an academic field is a continuing process of selection and socialization t othe pivotal norms of the field governing criteria for truth and how it is to be achieved, cummunicated, and used, and secondarily, to peripheral norms governing personal styles, attitudes, and social relationships. Over time, these selection and socialization pressures combine to produce an increasingly impermeable and homogeneous disciplinary culture and correspondingly specialized student orientations to learning.
+Disciplines, as we have seen, show sociocultural variation---differences in faculty and student demographics, personality, and aptitudes, as well as differences in values and group norms. For students, education in an academic field is a continuing process of selection and socialization to the pivotal norms of the field governing criteria for truth and how it is to be achieved, communicated, and used, and secondarily, to peripheral norms governing personal styles, attitudes, and social relationships. Over time, these selection and socialization pressures combine to produce an increasingly impermeable and homogeneous disciplinary culture and correspondingly specialized student orientations to learning.
 
-Many students, for example, resist required courses designed to broaden their interestes. One way to deal with this problem is for teacher and student to share explicitly their respective theories of learning. From this discussion, the student can gain insight into why the subject matter is taught as it is and what adjustments he need make in his approach to learning this subject.
+Many students, for example, resist required courses designed to broaden their interests. One way to deal with this problem is for teacher and student to share explicitly their respective theories of learning. From this discussion, the student can gain insight into why the subject matter is taught as it is and what adjustments he need make in his approach to learning this subject.
 
-Learning becomesa skill that can be improved and coached.
+Learning becomes a skill that can be improved and coached.
 
 
 Chapter 8: Lifelong learning and integrative development (208--230)
 
-For many, choices made earlier have led down pathways no longer rewarding, and some kind of change is needed. At this point, many finally face up to the fact that they will never realize their youthful draems and that new, more realistic goals must be found if life is to have purpose. Others, even if successful in their eearlier pursuits, discover that they have purchased success in career at the expense of other responsibilities (such as to spouse and children) or other kinds of human fulfilment. Continued accentuation of an overspecialized version of oneself eventually becomes stultifying---one begins t ofeel stuck, static, in a rut.
+For many, choices made earlier have led down pathways no longer rewarding, and some kind of change is needed. At this point, many finally face up to the fact that they will never realize their youthful dreams and that new, more realistic goals must be found if life is to have purpose. Others, even if successful in their earlier pursuits, discover that they have purchased success in career at the expense of other responsibilities (such as to spouse and children) or other kinds of human fulfilment. Continued accentuation of an overspecialized version of oneself eventually becomes stultifying---one begins to feel stuck, static, in a rut.
+
+
+
+
+***Jaques & Salmon***
+
+Introduction (1--4)
+
+Brown and Atkins (1999) report research evidence that the mean proportion of time tutors spent talking in discussion groups was 64 per cent and could reach 86 per cent.
+
+Our approach to learning is based [sic] the following assumptions:
+ - We learn best when we are personally and actively involved in the learning experience.
+ - Knowledge of any kind has more significance when we learn it through our own initiative, insight and discovery.
+ - Learning is best when we are committed to aims that we have been involved in setting, when our participation with others is valued and when there is a supporting framework in which to learn.
+
+
+Chapter 1: Theory and practice in group dynamics (5--21)
+
+Many regard six as a critical number for groups in all sorts of situations. With six or less [sic], the degree of intimacy, whether physical or virtual, offered by close proximity can somehow make it difficult for group members to register their feelings about the group. Leadership tends to be fluid and interchangeable. As the group size increases, the climate of the group changes.
+
+Under the authoritative mode the tutor can be:
+1 Directing
+  Raising an issue for discussion, re-routing the discussion.
+  Suggesting further work to be done.
+2 Informing
+  Summarising.
+  Interrelating.
+  Giving knowledge and information.
+3 Confronting
+  Challenging by direct question.
+  Disagreeing with /correcting/critically evaluating student statement.
+
+Under the facilitative mode the tutor can be:
+4 Releasing tension
+  Arousing laughter.
+  Allowing students to discharge unpleasant emotions such as embarrassment, irritation, confusion and sometimes even anger.
+5 Eliciting
+  Drawing out student opinions/knowledge/problem-solving ability.
+  Facilitating student interaction.
+  Enabling students to learn and develop by self-discovery and personal insight.
+6 Supporting
+  Approving/reinforcing/agreeing with/affirming the value of student contributions.
+
+
+Chapter 2: Studies of group behaviour (22--49)
+
+Cohesiveness is a measure of the attraction of the group to its members (and resistance to leaving it), in the sense of team spirit, and the willingness of its members to coordinate their efforts. Compared with members of a low-cohesive group, those in a high-cohesive group will, therefore, be keen to attend meetings, be satisfied with the group, use 'we' rather than 'I' in discussions, be cooperative and friendly with each other, and be more effective in achieving the aims they set for themselves. The low-cohesive group will be marked by absenteeism, the growth of cliques and factions, and a sense of frustration at the lack of attainment.
+
+>>Figure 2.2 Distribution of participation in groups of different sizes (Bligh 2000) [Blight, D. What's the point of discussion?, Exeter:Intellect books]
+
+Luker (1987) in Brown and Atkins (1999) lists a number of student and tutor likes and dislikes on the subject of small group teaching, a selection of which are made here. [Luker, P. Some cases of small group teaching, unpublished thesis, University of Nottingham]
+
+
+Chapter 3: Approaches to learning (50--67)
+
+The inference that online discussion may be of special value for less assertive students in borne out by Rainsbury and Malcolm (2003) who found that two groups of students who often lacked confidence in face-to-face situations -- mature students and those of non-English backgrounds -- found it easier to express an opinion on asynchronous discussion boards, and inferred that such online discussion could be used to develop their groupwork skills.
+
+>>Marton and Saljo (1976) deep and surface learning
+
+>>Development phases in learning
+
+
+Chapter 4: Communicating in groups (68--83)
+
+>>Giving and receiving feedback
+
+
+Chapter 6: Activities for groups (104--158)
+
+The tutorial, whether face-to-face or online, is concerned with the development of the student's powers of thought.
+
+Tutorials serve two main functions:
+ - As a regular ground for the checking of student progress, locating misunderstandings in lectures and an opportunity to give special scrutiny to a piece of student's work.
+ - As the setting for the pastoral role for the tutor.
+
+
+Chapter 10: Case studies of group teaching and learning (253--272)
+
+>>Passports for seminars: Oxford Brookes School of Business increased increased student participation in seminar series by requiring students to prepare a note card on the required reeading before they could be admitted. (card was scrutinies by lecturer before being returned during the examination. Trend of increasingly-decreasing numbers was reveresed: attendence rapidly shot up to 90--100 per cent, the discussion was livelier and more informed, and the students were more enthusiastic.
