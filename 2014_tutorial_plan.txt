@@ -1,0 +1,11 @@
+ 1	 2/10/2014	1-on-1		Draft CV		Mention key skills
+ 2	 9/10/2014	1st		CV			Set essay
+ 3	16/10/2014	2nd		Formative essay
+ 4	23/10/2014	Careers					Introduce presentations
+ 5	30/10/2014	3rd					Essay feedback
+ 6	 6/11/2014	4th		Presentation idea	Assessment criteria
+ 7	13/11/2014	5th		Presentation outline	
+ 8	20/11/2014	6th					How to give a talk
+ 9	27/11/2014	7th		Presentation draft	Content
+10	 4/12/2014	8th		Presentations
+11	11/12/2014	9th

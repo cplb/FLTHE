@@ -1,0 +1,28 @@
+ 1	 2/10/2013	1-on-1		Draft CV		Mention key skills
+ 2	 8/10/2013	1st		CV
+ 3	15/10/2013	2nd					Introduce presentations
+ 4	22/10/2013	3rd		Presentation idea
+ 5	29/10/2013	Careers	
+ 6	 5/11/2013	4th		Presentation outline 	How to give a talk
+ 7	12/11/2013	5th	
+ 8	19/11/2013	6th		Presentation draft	Content
+ 9	26/11/2013	7th					Assessment criteria
+10	 3/12/2013	8th		Presentations
+11	10/12/2013	9th
+
+ 1	17/01/2014	10th		Essay idea
+ 2	24/01/2014	11th
+ 2	24/01/2014      Progress review
+ 3	31/01/2014	12th					Academic writing and referencing
+ 4	07/02/2014	13th
+ 5	14/02/2014	14th					Essay advice and marking criteria
+ 6	19/02/2014	Office hours
+ 6	20/02/2014	Early deadline
+ 6	21/02/2014	15th		Essay deadline
+ 7	26/02/2014	16th
+ 8	 7/03/2014	17th
+ 9	14/03/2014	18th
+10	21/03/2014	19th
+11	28/03/2014	20th					Revision and past-papers
+
+ 1	 1/05/2014	Revision
