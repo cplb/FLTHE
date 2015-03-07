@@ -8,7 +8,7 @@
  8	19/11/2013	6th		Presentation draft	Content
  9	26/11/2013	7th					Assessment criteria
 10	 3/12/2013	8th		Presentations
-11	10/12/2013	9th
+11	10/12/2013	9th					Presentation feedback
 
  1	17/01/2014	10th		Essay idea
  2	24/01/2014	11th
@@ -18,7 +18,8 @@
  5	14/02/2014	14th					Essay advice and marking criteria
  6	19/02/2014	Office hours
  6	20/02/2014	Early deadline
- 6	21/02/2014	15th		Essay deadline
+ 6	21/02/2014	15th		
+ 6	21/02/2014	Essay deadline
  7	26/02/2014	16th
  8	 7/03/2014	17th
  9	14/03/2014	18th

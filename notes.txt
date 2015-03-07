@@ -34,8 +34,6 @@ For many, choices made earlier have led down pathways no longer rewarding, and s
 
 Introduction (1--4)
 
-Brown and Atkins (1999) report research evidence that the mean proportion of time tutors spent talking in discussion groups was 64 per cent and could reach 86 per cent.
-
 Our approach to learning is based [sic] the following assumptions:
  - We learn best when we are personally and actively involved in the learning experience.
  - Knowledge of any kind has more significance when we learn it through our own initiative, insight and discovery.
@@ -104,4 +102,26 @@ Tutorials serve two main functions:
 
 Chapter 10: Case studies of group teaching and learning (253--272)
 
->>Passports for seminars: Oxford Brookes School of Business increased increased student participation in seminar series by requiring students to prepare a note card on the required reeading before they could be admitted. (card was scrutinies by lecturer before being returned during the examination. Trend of increasingly-decreasing numbers was reveresed: attendence rapidly shot up to 90--100 per cent, the discussion was livelier and more informed, and the students were more enthusiastic.
+>>Passports for seminars: Oxford Brookes School of Business increased increased student participation in seminar series by requiring students to prepare a note card on the required reading before they could be admitted. (card was scrutinies by lecturer before being returned during the examination. Trend of increasingly-decreasing numbers was reversed: attendance rapidly shot up to 90--100 per cent, the discussion was livelier and more informed, and the students were more enthusiastic.
+
+
+
+
+***Brown & Atkins***
+
+Chapter 2. Studies of lecturing (7--18)
+
+The verbal messages may consist of definitions, descriptions, examples, explanations, or comments. The 'extra-verbal' component is the lecturer's vocal qualities, hesitations, stumbles, errors, and use of pauses and silence. The 'non-verbal' component consists of his or her gestures, facial expressions, and body movements. Audio-visual messages are presented on blackboards, transparencies, slides, and audio-visual extracts.
+
+Attention fluctuates throughout a one-hour lecture. After twenty minutes there is a marked decline in attention followed by a peak of attention just before the lecture ends. This declines in attention is less likely to occur if the lecture includes some short activities for students such as brief small group discussions or simple problem-solving. Any change of activity is, in fact, likely to renew attention.
+
+Messages that are received by the students are filtered and stored temporarily in the short-term memory. They are forgotten after about thirty seconds if they cannot be kept in mind or noted, or if they cannot be transferred to the long-term memory. They are forgotten after about thirty seconds if they cannot be kept in mind or noted, or if they cannot be transferred to the long-term memory.
+
+The long-term memory most readily receives messages which are closely related to the network of concepts and facts which are already stored in the long-term memory and have been called up. For links can then be made between the new and old. Sometimes this processing of new information in the light of the old will profoundly affect the pre-existing networks and information and they will be 'returned' to long-term store in a different or modified form. A lecture can, therefore, radically change your perception of a topic or issue. The long-term memory will also store new messages which are only loosely associated with existing facts and ideas. But facts and concepts that are incomprehensible are not likely to be stored.
+
+
+Chapter 4: Effective small group teaching (50--90)
+
+Their findings also suggest that, in general, heterogeneous groups are more effective at group decision-making than individuals of the same personalities or abilities. [Citing social psychology studies from various sources]
+
+Foster (1981) in a study of tutorials found tutor talk to be as high as 86 per cent and student--student interaction as low as 8 per cent. Lecturers used students' ideas less than 2 per cent of the time. Luker (1987) in a study of small group teaching in a British university found that the proportion of time spent on lecturing in small groups varied from 7 to 70 per cent and the proportion of time devoted to asking questions varied from 1 to 28 per cent. The mean time spent by tutors talking was 64 per cent. Physics, production engineering, and education had the student groups who made most contributions. [Luker, P.A. (1987) 'Some case studies of small group teaching', unpublished PhD, University of Nottingham]
