@@ -5,7 +5,7 @@
  5	30/10/2014	3rd					Essay feedback
  6	 6/11/2014	4th		Presentation idea	Assessment criteria
  7	13/11/2014	5th		Presentation outline	
- 8	20/11/2014	6th					How to give a talk
+ 8	18/11/2014	6th					How to give a talk
  9	27/11/2014	7th		Presentation draft	Content
 10	 4/12/2014	8th		Presentations
 11	11/12/2014	9th					Presentation feedback
@@ -25,3 +25,5 @@
  9	 9/03/2014	18th
 10	16/03/2014	19th
 11	23/03/2014	20th					Revision and past-papers
+
+1	TBC		Revision

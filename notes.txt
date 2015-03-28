@@ -125,3 +125,124 @@ Chapter 4: Effective small group teaching (50--90)
 Their findings also suggest that, in general, heterogeneous groups are more effective at group decision-making than individuals of the same personalities or abilities. [Citing social psychology studies from various sources]
 
 Foster (1981) in a study of tutorials found tutor talk to be as high as 86 per cent and student--student interaction as low as 8 per cent. Lecturers used students' ideas less than 2 per cent of the time. Luker (1987) in a study of small group teaching in a British university found that the proportion of time spent on lecturing in small groups varied from 7 to 70 per cent and the proportion of time devoted to asking questions varied from 1 to 28 per cent. The mean time spent by tutors talking was 64 per cent. Physics, production engineering, and education had the student groups who made most contributions. [Luker, P.A. (1987) 'Some case studies of small group teaching', unpublished PhD, University of Nottingham]
+
+
+
+***Ramsden***
+
+Preface (ix--x)
+
+There are no right answers: there are only methods that may work better or worse for each individual teacher, each department, and each group of students.
+
+
+Chapter 2: Ways of understanding teaching (12--16)
+
+A good way of starting to learn more about any subject is to review what you already know about it.
+
+
+Chapter 3: What students learn (17--37)
+
+In summary, the research indicates that, at least for a short period, students retain vast quantities of information. On the other hand, many of them soon seem to forget much of it (see, for example, Saunders, 1980), and they appear not to make good use of what they do remember. They experience many superficial changes---acquiring the jargon of disciplines, for example---but they still tend to operate with naïve and erroneous conceptions. Moreover, many students are unaware of what they do not know: they have not developed self-critical awareness in their subjects.
+
+Even simple algebraic thinking seems to prove problematic for many higher education students. As soon as they are set free from the straightforward manipulation of symbols, and are forced to consider the meaning underlying them as well, many appear to flounder.
+
+
+Chapter 4: Approaches to learning (38--61)
+
+students obliged to use a surface approach to a task, or to an entire course, describe their feelings of resentment, depression, and anxiety. In contrast, deep approaches are almost universally associated with a sense of involvement, challenge, and achievement, together with feelings of personal fulfilment and pleasure.
+
+Students who are taking a deep approach find the material more interesting and easier to understand, and are therefore more likely to spend ‘time on task’. But studying using a surface approach is a tedious and unrewarding activity: persisting with this approach leads to procrastination and delay. Surface approaches thus mean that students spend less and less time in private study, and consequently are more likely to fail their exams.
+
+When students appear to be ‘unable to study’ we should examine their approaches to learning before blaming them for being idle and unmotivated, particularly in view of the effect of our teaching on their approaches
+
+Many assessment methods do not test understanding, even though we may believe that they do. Students may succeed in an examination or a degree course despite using a surface approach;
+
+
+Chapter 5: Learning from the student's approach (62--85)
+
+In each of these interventions, the effects on student learning were the opposite of those that were intended by the designers, precisely because the students saw things differently.
+
+But deep approaches are fragile things; while we can create favourable conditions for them, students’ previous experiences and other unmeasured factors may mean that they remain unexercised. This is a warning worth heeding, both in evaluating our own teaching and when it comes to measuring the effectiveness of other people’s. No one can ever be certain that teaching will cause students to learn. In the last analysis, excellence in teaching cannot guarantee that students will understand.
+
+>>Table 5.1 Characteristics of the context of learning associated with deep and surface approaches
+
+
+Chapter 6: The nature of good teaching in higher education (86--108)
+
+Now I take it for granted throughout this book that there cannot be one ‘best’ way of teaching. Like studying, it is too complicated and personal a business for a single strategy to be right for everybody and every discipline. So far so good. It is folly, however, to carry this truism beyond its proper territory and to suggest that there are no better or worse ways of teaching, no general attributes that distinguish good teaching from bad.
+
+Moreover, when students are asked to identify the important characteristics of a good lecturer, they identify the same ones that lecturers themselves do: organisation, stimulation of interest, understandable explanations, empathy with students’ needs, feedback on work, clear goals, encouraging independent thought. Down at the bottom of the list are the lecturer’s personality and sense of humour.
+
+>>SIX KEY PRINCIPLES OF EFFECTIVE TEACHING IN HIGHER EDUCATION
+Principle 1: Interest and explanation
+Principle 2: Concern and respect for students and student learning
+Principle 3: Appropriate assessment and feedback
+Principle 4: Clear goals and intellectual challenge
+Principle 5: Independence, control, and active engagement
+Principle 6: Learning from students
+
+It provides relevant learning tasks at the right level for students’ current understanding; it recognises that each student will learn best in his or her own way; it avoids creating over-dependence. It helps students to understand the essence of scholarship and investigation in their subjects by providing an opportunity for them to practise the art of enquiry.
+
+
+Chapter 7: Theories of teaching in higher education (109--119)
+
+Learning is applying and modifying one’s own ideas; it is something the student does, rather than something that is done to the student.
+
+Improving teaching is an integral part of theory 3, precisely because it expresses a notion of teaching as a speculative and reflexive activity. Using theory 3 means listening to students and listening to other teachers in an effort to teach better.
+
+Thus, theory 1 assumes that content knowledge and fluent presentation are enough for good teaching. Theory 2 complements this picture with additional skills focused principally on student activity and the acquisition of extra teaching techniques. Theory 3 presupposes all these abilities and extends the understanding of teaching so that it becomes embedded in the nature of subject knowledge and the nature of how it is learned.
+
+Importantly, the quality of a teacher’s reflections on how his or her teaching is working affect the theories used and in turn the future actions taken.
+
+
+Chapter 8: The goals and structure of a course (123--149)
+
+Much the easiest mistake to make in deciding upon content and aims is to include too much content. We should rather strive to include less, but to ensure that students learn that smaller part properly.
+
+
+Chapter 9: Teaching strategies for effective learning (150--180)
+
+The first of these is to discourage students from using surface approaches: this implies avoiding excessive workloads, busywork, and unnecessary time pressures; shunning assessment practices that require recall or rehearsal of trivial detail; abandoning all attempts to devalue students’ tentative steps towards understanding; avoiding cynical comments (explicit or implicit) about the subject matter and students’ grasp of it.
+
+*The teacher gives a lecture rather than conducting a dialogue.
+*The teacher talks too much.
+*Students cannot be encouraged to talk except with difficulty; they will not talk to each other, but will only respond to questions from the tutor.
+*Students do not prepare for the sessions.
+*One student dominates the discussion, or blocks it.
+*The students want to be given the solutions to problems rather than discussing them.
+
+Few discussions of media, and few books about teaching in higher education, say much about the medium through which many students will continue to learn for the foreseeable future---the book. [...] Two of the most worrying problems---the quality of the reading materials themselves and their selection---are usually left untouched.
+
+
+Chapter 10: Assessing for understanding (181--213)
+
+Seeing assessment as an external imposition to be negotiated in order to earn a grade, rather than a way of learning and of demonstrating understanding, is an optimal recipe for surface approaches.
+
+Entwistle’s investigation of first year engineering students in Scottish higher education (Entwistle et al., 1989; see also chapter 8) showed that an important contributory cause of student failure was an almost complete absence of feedback on progress during the first term of their studies. Some students only realised they were in danger of failure after receiving the results of the first end-of-term examinations; even then, they were usually not given information that would enable them to improve.
+
+The prudent use of model answers, taken either from students’ work or specially written by the lecturer, is an excellent form of feedback.
+
+FOURTEEN RULES FOR BETTER ASSESSMENT IN HIGHER EDUCATION
+1. Link assessment to learning: focus first on learning, second on encouraging effort, and third on grading; assess during the experience of learning as well as at the end of it; set tasks that mimic realistic problems whenever possible; reward integration and application.
+2. Never assess without giving comments to students about how they might improve.
+3. Learn from your students’ mistakes. Use assessment to discover their misunderstandings, then modify teaching to address them.
+4. Deploy a variety of assessment methods.
+5. Try to get students participating in the assessment process, through:
+* discussions of appropriate methods and how the methods relate to the course goals
+* joint staff-student design of assessment questions and negotiation of criteria for success and failure
+* self and peer assessment activities 
+* offering students responsible choice among different methods.
+6. Give lucid and frequent messages, both in the assessment questions you set and in your course goals, that memorisation, reproduction, and imitation will be penalised and that success in your courses will only be achieved through decisive demonstrations of understanding.
+7. Think about the relation between reporting and feedback; justify on educational grounds either the separation or the combination of the diagnostic and summative functions of a particular test, rather than blindly applying an algorithm such as ‘No assessment for feedback should count for a mark’ or ‘Every assessment should count or students won’t bother with it.’
+8. Use multiple-choice and other ‘objective’ tests very cautiously, preferably in combination with other methods. When numbers of students and time permit alternative techniques (see 6 above), use these.
+9. In subjects involving quantitative manipulations, always include questions requiring explanations in prose (such as ‘What does it mean in this case to say that the standard deviation is 1.8?’) as well as numerical examples.
+10. Focus on validity (is what you are measuring important?) before reliability (is your test consistent?). Try to avoid the temptation to test trifling aspects because they are easier to measure than important ones.
+11. Do everything in your power to lessen the anxiety raised by assessments.
+12. ‘Examinations are formidable even to the best prepared, for the greatest fool may ask more than the wisest man can answer’ (Colton). Never set an assignment or examination question you are not ready to answer yourself. Practise the habit of writing model answers to your questions and using them to help students appreciate what you want.
+13.  Reduce the between-student competitive aspects of assessment while simultaneously providing inducements to succeed against a standard (through using assessments of group products and deriving standards from several cohorts of students, for example).
+14. Be suspicious of the objectivity and accuracy of all measures of student ability and conscious that human judgement is the most important element in every indicator of achievement.
+
+
+Chapter 11. Evaluating the quality of higher education (217--269)
+
+The theory of teaching and learning underlying performance appraisal of teaching is nowhere better represented than in the extraordinary belief it professes in the powers of student rating questionnaires. The strength of this entirely misplaced belief vies for educational naïvety with the conception of assessment as a process of discovering the absolute truth about a student’s ability through a three-hour examination at the end of a programme of study.
