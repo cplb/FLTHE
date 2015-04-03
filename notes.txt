@@ -280,3 +280,53 @@ Techniques to aid writing development
 * Paired annotations
 * Peer editing
 * Peer response group
+
+
+
+***Irons***
+
+1. Principles of formative assessment and formative feedback (6--30)
+
+There is very little time for formative activities and little time for teachers to provide constructive formative feedback. The consequence of this is that students become driven by summative assessment, disengage with formative assessment and feel that formative feedback on end-of-module summative assessments adds no value to their future modules.
+
+Assessment is a major issue in higher education---an inordinate amount of emphasis is placed on assessment (particularly summative assessment) and a huge amount of time and effort goes into delivering, managing and assuring assessment. Assessment is stressful for students and for staff.
+
+
+2. Student learning environment (31--51)
+
+>>Useful and usable feedback
+*Be understandable by students
+*Be valued by students
+*'Close the gap' on their understanding
+*Be of appropriate quality
+*Be timely
+*Provide an opportunity for dialogue
+
+
+3. Using formative assessment and formative feedback in learning and teaching (52--69)
+
+There are many issues involved in the teaching of transferable skills and these are often exacerbated as a result of modular academic structures. Transferable skills need to be applied across the whole curriculum, and with modularisation there is a real danger that such skills are restricted to a few core modules or omitted completely.
+
+
+4. Formative assessment and feedback techniques (70--86)
+
+How can we fit it into an already full workload? The answer is fairly straightforward---we can't!
+
+The feedback should address complex learning issues, such as addressing quality of argument, completeness of discussion or interpretation of literature, rather than focus on simple feedback such as exceeding word count or spelling and grammar.
+
+Another way of making use of model solution is to provide students with worked examples before they undertake assessment activities (either formative or summative). This approach can give students useful guidance on academic expectation, standards and possible approaches. However, there are potential downsides to this approach, either that students think the model solution is the only way to tackle the task, or that you need to provide many different exemplars in order to cover all possible approaches!
+
+>>Examples of not-so-good practice
+*No feedback
+*Feedback that is not timely
+*Numeric mark only
+*Contradictory feedback
+*Lack of consistency between lecturers
+*Unhelpful feedback
+
+
+8. Summary and recommendations
+
+Feedback is also a key aspect in assessment and is fundamental in enabling students to learn from assessment. helping students to learn from their activities is a key aspect of feedback...
+
+>>Problems with summative assessment
