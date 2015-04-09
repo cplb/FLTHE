@@ -1,0 +1,327 @@
+\begin{thebibliography}{63}
+\newcommand{\enquote}[1]{`#1'}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Ayres(2015)}]{Ayres2015}
+Ayres, R.; in Fry, H., Ketteridge, S. \& Marshall, S. (editors), \textit{A
+  Handbook for Teaching \& Learning in Higher Education}; chapter~7, 94--106;
+  London: Routledge; fourth edition; 2015.
+
+\bibitem[{Bamber \& Jones(2015)}]{Bamber2015}
+Bamber, V. \& Jones, A.; in Fry, H., Ketteridge, S. \& Marshall, S. (editors),
+  \textit{A Handbook for Teaching \& Learning in Higher Education}; chapter~11,
+  152--168; London: Routledge; fourth edition; 2015.
+
+\bibitem[{Barradell(2013)}]{Barradell2013}
+Barradell, S.;
+  \textit{\href{http://dx.doi.org/10.1007/s10734-012-9542-3}{Higher
+  Education}}; \textbf{65}(2):265--276; 2013.
+
+\bibitem[{Bell \textit{et al\textup{.}}(2012)Bell, Mladenovic \&
+  Price}]{Bell2012}
+Bell, A., Mladenovic, R. \& Price, M.;
+  \textit{\href{http://dx.doi.org/10.1080/02602938.2012.714738}{Assessment \&
+  Evaluation in Higher Education}}; \textbf{38}(7):769--788; 2012.
+
+\bibitem[{Biggs(1988)}]{Biggs1988}
+Biggs, J.; in Schmeck, R.R. (editor), \textit{Learning Strategies and Learning
+  Styles: Perspectives on Individual Differences}; chapter~8, 185--228; New
+  York: Springer; 1988.
+
+\bibitem[{Biggs(1987)}]{Biggs1987}
+Biggs, J.B.; \textit{{Student Approaches to Learning and Studying}}; Hawthorn:
+  Australian Council for Educational Research; 1987.
+
+\bibitem[{Bloxham(2015)}]{Bloxham2015}
+Bloxham, S.; in Fry, H., Ketteridge, S. \& Marshall, S. (editors), \textit{A
+  Handbook for Teaching \& Learning in Higher Education}; chapter~8, 107--122;
+  London: Routledge; fourth edition; 2015.
+
+\bibitem[{Brown \& Atkins(1988)}]{Brown1988}
+Brown, G. \& Atkins, M.; \textit{{Effective Teaching in Higher Education}};
+  London: Routledge; 1988.
+
+\bibitem[{Bruner(1960)}]{Bruner1960}
+Bruner, J.; \textit{{The process of education}}; Oxford: Harvard University
+  Press; 1960.
+
+\bibitem[{Butcher(2015)}]{Butcher2015}
+Butcher, C.; in Fry, H., Ketteridge, S. \& Marshall, S. (editors), \textit{A
+  Handbook for Teaching \& Learning in Higher Education}; chapter~6, 80--93;
+  London: Routledge; fourth edition; 2015.
+
+\bibitem[{Cabrera \textit{et al\textup{.}}(2002)}]{Cabrera2002}
+Cabrera, A.F. \textit{et al\textup{.}}; \textit{Journal of College Student
+  Development}; \textbf{43}(1):20--34; 2002.
+
+\bibitem[{Cornelius-White(2007)}]{Cornelius-White2007}
+Cornelius-White, J.;
+  \textit{\href{http://dx.doi.org/10.3102/003465430298563}{Review of
+  Educational Research}}; \textbf{77}(1):113--143; 2007.
+
+\bibitem[{Crouch \& Mazur(2001)}]{Crouch2001}
+Crouch, C.H. \& Mazur, E.;
+  \textit{\href{http://dx.doi.org/10.1119/1.1374249}{American Journal of
+  Physics}}; \textbf{69}(9):970--977; 2001.
+
+\bibitem[{Falchikov(2001)}]{Falchikov2001}
+Falchikov, N.; \textit{{Learning together: Peer tutoring in higher education}};
+  London: RoutledgeFalmer; 2001.
+
+\bibitem[{Fallows \& Steven(2000)}]{Fallows2000}
+Fallows, S. \& Steven, C.;
+  \textit{\href{http://dx.doi.org/10.1108/00400910010331620}{Education +
+  Training}}; \textbf{42}(2):75--83; 2000.
+
+\bibitem[{Foster(1981)}]{Foster1981}
+Foster, P.J.; \textit{Journal of medical education}; \textbf{56}(10):831--838;
+  1981.
+
+\bibitem[{Gibbs(2015)}]{Gibbs2015}
+Gibbs, G.; in Fry, H., Ketteridge, S. \& Marshall, S. (editors), \textit{A
+  Handbook for Teaching \& Learning in Higher Education}; chapter~14, 193--208;
+  London: Routledge; fourth edition; 2015.
+
+\bibitem[{Gonsalves(2014{\natexlab{a}})}]{Gonsalves2014}
+Gonsalves, A.;
+  \textit{\href{http://dx.doi.org/10.1007/s11422-012-9423-1}{Cultural Studies
+  of Science Education}}; \textbf{9}(2):461--467; 2014{\natexlab{a}}.
+
+\bibitem[{Gonsalves(2014{\natexlab{b}})}]{Gonsalves2014a}
+Gonsalves, A.J.;
+  \textit{\href{http://dx.doi.org/10.1007/s11422-012-9447-6}{Cultural Studies
+  of Science Education}}; \textbf{9}(2):503--521; 2014{\natexlab{b}}.
+
+\bibitem[{Hanif \textit{et al\textup{.}}(2009)Hanif, Sneddon, Al-Ahmadi \&
+  Reid}]{Hanif2009}
+Hanif, M., Sneddon, P.H., Al-Ahmadi, F.M. \& Reid, N.;
+  \textit{\href{http://dx.doi.org/10.1088/0143-0807/30/1/009}{European Journal
+  of Physics}}; \textbf{30}(1):85--96; 2009.
+
+\bibitem[{Harvey(2000)}]{Harvey2000}
+Harvey, L.;
+  \textit{\href{http://dx.doi.org/10.1080/13583883.2000.9967007}{Tertiary
+  Education and Management}}; \textbf{6}(1):3--17; 2000.
+
+\bibitem[{Henderlong \& Lepper(2002)}]{Henderlong2002}
+Henderlong, J. \& Lepper, M.R.;
+  \textit{\href{http://dx.doi.org/10.1037/0033-2909.128.5.774}{Psychological
+  bulletin}}; \textbf{128}(5):774--795; 2002.
+
+\bibitem[{Housell \& McCane(2003)}]{Housell2003}
+Housell, D. \& McCane, V.; in Rust, C. (editor), \textit{Improving Student
+  Learning: Theory and Practice---10 Years On}; chapter~9, 109--118; Oxford:
+  Oxford Centre for Staff \& Learning Development; 2003.
+
+\bibitem[{Iannone \& Simpson(2014)}]{Iannone2014}
+Iannone, P. \& Simpson, A.;
+  \textit{\href{http://dx.doi.org/10.1080/03075079.2013.858683}{Studies in
+  Higher Education}}; 1--22; 2014.
+
+\bibitem[{Iannone \& Simpson(2015)}]{Iannone2015}
+Iannone, P. \& Simpson, A.; in Fry, H., Ketteridge, S. \& Marshall, S.
+  (editors), \textit{A Handbook for Teaching \& Learning in Higher Education};
+  chapter~16, 228--243; London: Routledge; fourth edition; 2015.
+
+\bibitem[{Irons(2008)}]{Irons2008}
+Irons, A.; \textit{{Enhancing learning through formative assessment and
+  feedback}}; London: Routledge; 2008.
+
+\bibitem[{Jaques \& Salmon(2007)}]{Jaques2007}
+Jaques, D. \& Salmon, G.; \textit{{Learning in Groups}}; London: Routledge;
+  fourth edition; 2007.
+
+\bibitem[{Kember \& Leung(1998)}]{Kember1998}
+Kember, D. \& Leung, D.Y.;
+  \textit{\href{http://dx.doi.org/10.1080/0144341980180303}{Educational
+  Psychology}}; \textbf{18}(3):293--307; 1998.
+
+\bibitem[{Ketteridge \textit{et al\textup{.}}(2015)Ketteridge, Fry \&
+  Marchall}]{Ketteridge2015}
+Ketteridge, S., Fry, H. \& Marchall, S.; in Fry, H., Ketteridge, S. \&
+  Marchall, S. (editors), \textit{A Handbook for Teaching \& Learning in Higher
+  Education}; chapter~4, 43--59; London: Routledge; fourth edition; 2015.
+
+\bibitem[{Kolb(1984)}]{Kolb1984}
+Kolb, D.A.; \textit{{Experimental learning}}; Upper Sadle River, New Jersey:
+  Prentice Hill; 1984.
+
+\bibitem[{Korobkin(1988)}]{Korobkin1988}
+Korobkin, D.;
+  \textit{\href{http://dx.doi.org/10.1080/87567555.1988.10532139}{College
+  Teaching}}; \textbf{36}(4):154--158; 1988.
+
+\bibitem[{Lage \textit{et al\textup{.}}(2000)Lage, Platt \& Treglia}]{Lage2000}
+Lage, M.J., Platt, G.J. \& Treglia, M.;
+  \textit{\href{http://dx.doi.org/10.1080/00220480009596759}{The Journal of
+  Economic Education}}; \textbf{31}(1):30--43; 2000.
+
+\bibitem[{Lesser \& Pearl(2008)}]{Lesser2008}
+Lesser, L.M. \& Pearl, D.K.; \textit{Journal of Statistics Education};
+  \textbf{16}(3); 2008.
+
+\bibitem[{Lieberman \& Remedios(2007)}]{Lieberman2007}
+Lieberman, D.A. \& Remedios, R.;
+  \textit{\href{http://dx.doi.org/10.1348/000709906X157772}{The British Journal
+  of Educational Psychology}}; \textbf{77}(2):379--395; 2007.
+
+\bibitem[{Lord \textit{et al\textup{.}}(1979)Lord, Ross \& Lepper}]{Lord1979}
+Lord, C.G., Ross, L. \& Lepper, M.R.;
+  \textit{\href{http://dx.doi.org/10.1037/0022-3514.37.11.2098}{Journal of
+  Personality and Social Psychology}}; \textbf{37}(11):2098--2109; 1979.
+
+\bibitem[{Luft(1961)}]{Luft1961}
+Luft, J.; \textit{Human Relations Training News}; \textbf{5}(1):6--7; 1961.
+
+\bibitem[{Luker(1987)}]{Luker1987}
+Luker, P.A.; \textit{{Some case studies of small group teaching}}; Ph.D.\
+  thesis; University of Nottingham; 1987.
+
+\bibitem[{MacKay(2003)}]{Mackay2003}
+MacKay, D.J.C.; \textit{{Information Theory, Inference and Learning
+  Algorithms}}; Cambridge: Cambridge University Press; 2003.
+
+\bibitem[{Marshall \textit{et al\textup{.}}(2015)Marshall, Fry \&
+  Ketteridge}]{Marshall2015}
+Marshall, S., Fry, H. \& Ketteridge, S.; in Fry, H., Ketteridge, S. \&
+  Marshall, S. (editors), \textit{A Handbook for Teaching \& Learning in Higher
+  Education}; chapter~3, 26--42; London: Routledge; fourth edition; 2015.
+
+\bibitem[{Marton \& S{\"a}alj{\"o}(1976{\natexlab{a}})}]{Marton1976}
+Marton, F. \& S{\"a}alj{\"o}, R.;
+  \textit{\href{http://dx.doi.org/10.1111/j.2044-8279.1976.tb02980.x}{British
+  Journal of Educational Psychology}}; \textbf{46}(1):4--11;
+  1976{\natexlab{a}}.
+
+\bibitem[{Marton \& S{\"a}alj{\"o}(1976{\natexlab{b}})}]{Marton1976a}
+Marton, F. \& S{\"a}alj{\"o}, R.;
+  \textit{\href{http://dx.doi.org/10.1111/j.2044-8279.1976.tb02304.x}{British
+  Journal of Educational Psychology}}; \textbf{46}(2):115--127;
+  1976{\natexlab{b}}.
+
+\bibitem[{Mathieson(2015)}]{Mathieson2015}
+Mathieson, S.; in Fry, H., Ketteridge, S. \& Marshall, S. (editors), \textit{A
+  Handbook for Teaching \& Learning in Higher Education}; chapter~5, 63--79;
+  London: Routledge; fourth edition; 2015.
+
+\bibitem[{McCarthy(2008)}]{McCarthy2008}
+McCarthy, M.; in Murray, R. (editor), \textit{Scholarship of Teaching and
+  Learning in Higher Education}; chapter~1, 6--15; Maidenhead: McGraw-Hill
+  Education; 2008.
+
+\bibitem[{Meyer \& Land(2003)}]{Meyer2003}
+Meyer, J.H.F. \& Land, R.; in Rust, C. (editor), \textit{Improving Student
+  Learning: Theory and Practice---10 Years On}; chapter~36, 412--424; Oxford:
+  Oxford Centre for Staff \& Learning Development; 2003.
+
+\bibitem[{Meyer \& Land(2005)}]{Meyer2005}
+Meyer, J.H.F. \& Land, R.;
+  \textit{\href{http://dx.doi.org/10.1007/s10734-004-6779-5}{Higher
+  Education}}; \textbf{49}(3):373--388; 2005.
+
+\bibitem[{Miller \textit{et al\textup{.}}(2006)Miller, Santana-Vega \&
+  Terrell}]{Miller2006}
+Miller, R.L., Santana-Vega, E. \& Terrell, M.S.;
+  \textit{\href{http://dx.doi.org/10.1080/10511970608984146}{PRIMUS}};
+  \textbf{16}(3):193--203; 2006.
+
+\bibitem[{Nicol \& Macfarlane-Dick(2006)}]{Nicol2006}
+Nicol, D.J. \& Macfarlane-Dick, D.;
+  \textit{\href{http://dx.doi.org/10.1080/03075070600572090}{Studies in Higher
+  Education}}; \textbf{31}(2):199--218; 2006.
+
+\bibitem[{Pike(2015)}]{Pike2015}
+Pike, N.; in Fry, H., Ketteridge, S. \& Marshall, S. (editors), \textit{A
+  Handbook for Teaching \& Learning in Higher Education}; chapter~15, 211--227;
+  London: Routledge; fourth edition; 2015.
+
+\bibitem[{Pilzer(2001)}]{Pilzer2001}
+Pilzer, S.;
+  \textit{\href{http://dx.doi.org/10.1080/10511970108965987}{PRIMUS}};
+  \textbf{11}(2):185--192; 2001.
+
+\bibitem[{Price \textit{et al\textup{.}}(2010)Price, Handley, Millar \&
+  O'Donovan}]{Price2010}
+Price, M., Handley, K., Millar, J. \& O'Donovan, B.;
+  \textit{\href{http://dx.doi.org/10.1080/02602930903541007}{Assessment \&
+  Evaluation in Higher Education}}; \textbf{35}(3):277--289; 2010.
+
+\bibitem[{Qin \textit{et al\textup{.}}(1995)Qin, Johnson \& Johnson}]{Qin1995}
+Qin, Z., Johnson, D.W. \& Johnson, R.T.; \textit{Review of Educational
+  Research}; \textbf{65}(2):129--143; 1995.
+
+\bibitem[{Rainsbury \& Malcolm(2003)}]{Rainsbury2003}
+Rainsbury, E. \& Malcolm, P.;
+  \textit{\href{http://dx.doi.org/10.1080/0963928032000049366}{Accounting
+  Education}}; \textbf{12}(1):49--61; 2003.
+
+\bibitem[{Ramsden(1992)}]{Ramsden1992}
+Ramsden, P.; \textit{{Learning to Teach in Higher Education}}; London:
+  Routledge; 1992.
+
+\bibitem[{Ross \textit{et al\textup{.}}(1975)Ross, Lepper \&
+  Hubbard}]{Ross1975}
+Ross, L., Lepper, M.R. \& Hubbard, M.;
+  \textit{\href{http://dx.doi.org/10.1037/0022-3514.32.5.880}{Journal of
+  personality and social psychology}}; \textbf{32}(5):880--892; 1975.
+
+\bibitem[{Roth \& Roychoudhury(1994)}]{Roth1994}
+Roth, W.M. \& Roychoudhury, A.;
+  \textit{\href{http://dx.doi.org/10.1002/tea.3660310104}{Journal of Research
+  in Science Teaching}}; \textbf{31}(1):5--30; 1994.
+
+\bibitem[{Ryan \& Deci(2000)}]{Ryan2000}
+Ryan, R. \& Deci, E.;
+  \textit{\href{http://dx.doi.org/10.1006/ceps.1999.1020}{Contemporary
+  educational psychology}}; \textbf{25}(1):54--67; 2000.
+
+\bibitem[{Sharma \textit{et al\textup{.}}(2007)}]{Sharma2007}
+Sharma, M. \textit{et al\textup{.}};
+  \textit{\href{http://dx.doi.org/10.1088/0143-0807/29/1/006}{European Journal
+  of Physics}}; \textbf{29}(1):59--72; 2007.
+
+\bibitem[{Skinner(1954)}]{Skinner1954}
+Skinner, B.F.; \textit{Harvard Educational Review}; \textbf{24}:86--97; 1954.
+
+\bibitem[{Springer \textit{et al\textup{.}}(1999)Springer, Stanne \&
+  Donovan}]{Springer1999}
+Springer, L., Stanne, M.E. \& Donovan, S.S.;
+  \textit{\href{http://dx.doi.org/10.3102/00346543069001021}{Review of
+  Educational Research}}; \textbf{69}(1):21--51; 1999.
+
+\bibitem[{Warner(2011)}]{Warner2011}
+Warner, R.; in Osman, M. (editor), \textit{Special Issue for the Nile TESOL
+  Skills Conference Proceedings 2011}; 141--146; Cairo: The American University
+  in Cairo; 2011.
+
+\bibitem[{Wigner(1960)}]{Wigner1960}
+Wigner, E.P.;
+  \textit{\href{http://dx.doi.org/10.1002/cpa.3160130102}{Communications on
+  Pure and Applied Mathematics}}; \textbf{13}(1):1--14; 1960.
+
+\bibitem[{Wilson \& Fowler(2005)}]{Wilson2005}
+Wilson, K. \& Fowler, J.;
+  \textit{\href{http://dx.doi.org/10.1080/0260293042003251770}{Assessment \&
+  Evaluation in Higher Education}}; \textbf{30}(1):87--101; 2005.
+
+\bibitem[{Zaitseva \textit{et al\textup{.}}(2013)Zaitseva, Milsom \&
+  Stewart}]{Zaitseva2013}
+Zaitseva, E., Milsom, C. \& Stewart, M.;
+  \textit{\href{http://dx.doi.org/10.1080/13538322.2013.802576}{Quality in
+  Higher Education}}; \textbf{19}(2):225--247; 2013.
+
+\end{thebibliography}
