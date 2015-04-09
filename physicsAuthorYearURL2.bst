@@ -1307,6 +1307,7 @@ FUNCTION {article}
 { output.bibitem
   format.authors "author" output.check
   author format.key output
+  format.title "title" output.check
   crossref missing$
     {
       journal
@@ -1894,8 +1895,6 @@ FUNCTION {begin.bib}
   "  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else"
   write$ newline$
   "  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup \urlstyle{rm}\Url}\fi"
-  write$ newline$
-  "\providecommand{\selectlanguage}[1]{\relax}"
   write$ newline$
   "\providecommand{\bibAnnoteFile}[1]{%"
   write$ newline$
